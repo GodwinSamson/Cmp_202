@@ -1,0 +1,26 @@
+Class 3
+
+Encapsulation and polymorphism
+
+
+private 
+default
+
+
+Polymorphism 
+
+   overloading : having multiple methods with the name but different signatures
+   overriding
+
+
+ex 
+
+
+float calculateVelocity(float distance, int time){
+	return distance/time;
+	}
+
+float calulateVelocity(float initialVelocity, float acceleration, int time ){
+	return initVelocity + (accl * time );
+
+	}
